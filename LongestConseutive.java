@@ -1,5 +1,5 @@
 import java.util.HashSet;
-import java.util.Scanner;
+
 
 public class LongestConseutive {
     static int longestConseutive(int[] arr){
